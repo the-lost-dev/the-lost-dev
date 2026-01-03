@@ -9,8 +9,6 @@
 
 ### What I'm Building
 
-🛒 **PayPronto** — Retail technology combining self-checkout with ERP features, built for African markets with offline-first architecture and mobile money integration
-
 📊 **Quantitative Investment System** — Factor-based investing platform with systematic stock screening, portfolio optimization, and risk management
 
 🐼 Currently at **[Roqqu](https://roqqupay.com/)** — Engineering mobile crypto solutions across Africa
@@ -21,29 +19,33 @@
 
 **Frontend & Mobile**
 ```
-Next.js • Flutter • Dart • TypeScript • JavaScript • Kotlin
+Next.js • React • Flutter • Dart • TypeScript • JavaScript • Kotlin
 ```
 
 **Backend & APIs**
 ```
-Node.js • Express • REST APIs • Postgres • DrizzleORM • MongoDB
+Node.js • Express • REST APIs • Postgres • DrizzleORM • Prisma • MongoDB • Redis
 ```
 
-**Infrastructure & Tools**
+**Cloud & Infrastructure**
 ```
-Firebase • Appwrite • Heroku • Figma
+AWS • GCP • Docker • Vercel • Railway • Firebase
+```
+
+**Tools**
+```
+Figma • Twilio
 ```
 
 ---
 
 ### GitHub Activity
 
-<p>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=the-lost-dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-lost-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=the-lost-dev&show_icons=true&theme=dark)
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=the-lost-dev&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=the-lost-dev&layout=compact&theme=dark)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=the-lost-dev&theme=dark)
 
 ---
 
