@@ -41,11 +41,11 @@ Figma • Twilio
 
 ### GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=the-lost-dev&show_icons=true&theme=dark)
+<img src="https://github-readme-stats.vercel.app/api?username=the-lost-dev&show_icons=true&theme=dark" alt="GitHub Stats" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=the-lost-dev&layout=compact&theme=dark)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-lost-dev&layout=compact&theme=dark" alt="Top Languages" />
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=the-lost-dev&theme=dark)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=the-lost-dev&theme=dark" alt="GitHub Streak" />
 
 ---
 
